@@ -1,1 +1,2 @@
-test
+adapting the text inside the testfile
+Ready for submitting
